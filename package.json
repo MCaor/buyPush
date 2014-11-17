@@ -1,0 +1,30 @@
+{
+  "name": "buyPush",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MCaor/butPush"
+  },
+  "keywords": [
+    "SPA"
+  ],
+  "author": "MCaor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MCaor/butPush/issues"
+  },
+  "homepage": "https://github.com/MCaor/butPush",
+  "devDependencies": {
+    "dustjs-linkedin": "^2.5.0",
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "^0.5.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-dustjs-linkedin": "^0.5.1",
+    "grunt-jsbeautifier": "^0.2.7"
+  }
+}
